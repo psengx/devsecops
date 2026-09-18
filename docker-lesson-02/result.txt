@@ -1,0 +1,16 @@
+Дарья Коровина
+ИТ-9.24.3-ДН
+
+Команды остановки и запуска db:
+docker compose stop db
+docker compose start db
+
+psengx@Pup:~/docker-lesson-02$ cat containers-before.txt
+c8f38c1e9fabfc18bf2a1fea3bcc025e38b36420f0b7e0e752a384fb8d998bcc
+b3bbd3ce0035dd6282bdf357d29ba2fac9d4a7726b9d70a30afdaf1a21add129
+
+psengx@Pup:~/docker-lesson-02$ cat containers-after.txt
+497415a8ba4b11a46beb2d5f9b915e0436086c06bcc7a86cd09247a8a5723b90
+14fb12e7f1580da18b26a8c7c155fc4101714d9d42cc93f9e7c5abda71c62ab2
+
+Запись сохранилась.
