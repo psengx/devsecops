@@ -1,0 +1,6 @@
+# Привет, Диана!!
+Это репозиторий Дарьи Коровиной из группы ИТ-9.24.3-ДН
+
+## Пути к папкам практики:
+- Практика 1 Docker - `/docker-lesson-01` + Скриншоты `/docker-lesson-01 screenshots`
+- Практика 2 Docker - `/docker-lesson-02` + Скриншоты `/docker-lesson-02 screenshots`
