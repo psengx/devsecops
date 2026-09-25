@@ -5,3 +5,4 @@
 
 - Практика 1 Docker - [файлы задания](/docker-lesson-01) + [Скриншоты](/docker-lesson-01-screenshots/)
 - Практика 2 Docker - [файлы задания](/docker-lesson-02) + [Скриншоты](/docker-lesson-02-screenshots/)
+- Практика 3 Docker - [папка с материалами](/docker-lesson-03)
