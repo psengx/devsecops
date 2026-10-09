@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Введение в сети.md",
+                "file": "Всё-всё-всё про Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Введение в сети"
+              "title": "Всё-всё-всё про Docker"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "166b8501a9d0fa59",
@@ -190,7 +191,9 @@
   },
   "active": "264927efe6b84cc4",
   "lastOpenFiles": [
+    "Pasted image 20261009192601.png",
     "Введение в сети.md",
+    "Всё-всё-всё про Docker.md",
     "Добро пожаловать.md"
   ]
 }
